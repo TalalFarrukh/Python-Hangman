@@ -1,0 +1,21 @@
+------------------Welcome to Hangman------------------
+
+
+In this folder you will find 5 files, excluding this one.
+
+The first two files are Hangman without GUI on C++, its .exe file and its code.
+
+The next two files are for Hangman with GUI. One is the python script for it which needs to be run on an IDE if you 
+want to see the code.
+
+The second file is the game's program. Click on it to start playing.
+
+The 5th file includes the report for the game. All the details are mentioned there for both the codes.
+
+If you want to play again, click the Quit button and start the program again.
+
+
+By: M.Talal Farrukh
+M.Uzair Akhtar
+M.Huma Tahir
+M.Salman Shaheer
